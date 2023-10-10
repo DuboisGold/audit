@@ -1,6 +1,6 @@
-# DAU Auidit Reports
+# DAU Audit Report
 
-Repository for DAU Auidit Reports
+Repository for DAU Audit Reports
 
 ## Contents
 
