@@ -3,6 +3,7 @@
 Repository for DAU Audit Reports
 
 ## Contents
+- [January 2024 Audit](240131_Helv_Audit_ASI.pdf)
 - [December 2023 Audit](231229_Helv_Audit_ASI.pdf)
 - [November 2023 Audit](231130_Helv_Audit_ASI.pdf)
 - [October 2023 Audit](231031_Helv_Audit_ASI.pdf)
