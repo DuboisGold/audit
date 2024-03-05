@@ -3,8 +3,8 @@
 Repository for DAU Audit Reports
 
 ## Contents
-- [February 2024 Audit](240229_Loom_Audit_ASI.pdf)
-- [February 2024 Audit](240229_Helv_Audit_ASI.pdf)
+- [February 2024 Audit (Loomis)](240229_Loom_Audit_ASI.pdf)
+- [February 2024 Audit (Helveticor)](240229_Helv_Audit_ASI.pdf)
 - [January 2024 Audit](240131_Helv_Audit_ASI.pdf)
 - [December 2023 Audit](231229_Helv_Audit_ASI.pdf)
 - [November 2023 Audit](231130_Helv_Audit_ASI.pdf)
