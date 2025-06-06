@@ -7,7 +7,7 @@ Repository for DAU Audit Reports
 - [April 2025 Audit (Consolidated)](250507_Consol_Audit_ASI.pdf)
 - [March 2025 Audit (Consolidated)](250401_Consol_Audit_ASI.pdf)
 - [February 2025 Audit (Consolidated)](250228_Consol_Audit_ASI.pdf)
-- [January 2025 Audit (Consolidated)](250131_Consol_Audit_ASI.pdf) 
+- [January 2025 Audit (Consolidated)](250131_Consol_Audit_ASI.pdf)
 - [December 2024 Audit (Consolidated)](241220_Consol_Audit_ASI.pdf)
 - [November 2024 Audit (Consolidated)](241129_Consol_Audit_ASI.pdf)
 - [October 2024 Audit (Consolidated)](241031_Consol_Audit_ASI.pdf)
